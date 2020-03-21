@@ -1,4 +1,4 @@
-Step 1: login to Ubuntu
+Step 1: login to Centos
 ​
 Step 2: Update ubuntu and install unzip
 sudo su
